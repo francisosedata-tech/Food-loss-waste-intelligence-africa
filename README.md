@@ -269,6 +269,8 @@ Key elements:
 
 ### Page 3 — Food Rescue
 
+![Food Rescue](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/e2e8910f3db93dec52f5db5f8bc2646e5537d5d6/screenshots/Food%20rescue.png)
+
 Focus:
 
 **Turning surplus food into potential rescue opportunities**
