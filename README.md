@@ -120,16 +120,7 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 
 ---
 
-## Dashboard 2 — Nigeria Deep Dive
-
-- What does the available evidence show about household food waste in Nigerian study locations?
-- Which Nigerian study locations report the highest food-waste levels?
-- How does reported food waste vary across Nigerian locations?
-- What is the distribution of available evidence by study year and confidence level?
-
----
-
-## Dashboard 3 — Food Loss Across the African Supply Chain
+## Dashboard 2 — Food Loss Across the African Supply Chain
 
 - Which supply-chain stages have the highest reported food-loss levels?
 - Which commodities show higher reported losses?
@@ -139,7 +130,7 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 
 ---
 
-## Dashboard 4 — From Food Waste to Food Rescue
+## Dashboard 3 — From Food Waste to Food Rescue
 
 - How much surplus food is potentially available for rescue?
 - How many meals could potentially be rescued?
@@ -179,11 +170,6 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 - Statistical analysis
 - Visualization
 - Data preparation
-
-### Figma
-- Dashboard wireframing
-- Layout planning
-- User experience design
 
 ### Excel
 - Data inspection
@@ -242,21 +228,6 @@ Local-currency revenue should not be directly aggregated across countries.
 
 ---
 
-# Dashboard Design
-
-The dashboard was first designed as a wireframe in Figma to establish:
-
-- Information hierarchy
-- KPI placement
-- Chart positioning
-- Navigation
-- Visual storytelling
-- User experience
-
-The wireframe was then translated into an interactive Power BI dashboard.
-
----
-
 # Dashboard Pages
 
 ### Page 1 — Africa Food Waste
@@ -275,23 +246,7 @@ Key elements:
 
 ---
 
-### Page 2 — Nigeria Deep Dive
-
-Focus:
-
-**Available household food-waste evidence across Nigerian study locations**
-
-Key elements:
-
-- Nigerian study locations
-- Reported waste levels
-- Geographic distribution
-- Study confidence
-- Study scope
-
----
-
-### Page 3 — Africa Food Loss
+### Page 2 — Africa Food Loss
 
 Focus:
 
@@ -307,7 +262,7 @@ Key elements:
 
 ---
 
-### Page 4 — Food Rescue
+### Page 3 — Food Rescue
 
 Focus:
 
