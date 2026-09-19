@@ -15,16 +15,17 @@ The project combines publicly available food loss and food waste data with an il
 ## 3. Project Objectives
 ## 4. Data Sources
 ## 5. Business Questions
-## 6. Tools & Technologies
-## 7. Data Model
-## 8. Key Analytical Considerations
-## 9. Dashboard Pages
-## 10. Key Insight
-## 11. Limitations
-## 12. Future Improvements
-## 13. Why This Project Matters
-## 14. Author
-## 15. Acknowledgements & Disclaimer
+## 6 Suggested path through the project
+## 7. Tools & Technologies
+## 8. Data Model
+## 9. Key Analytical Considerations
+## 10. Dashboard Pages
+## 11. Key Insight
+## 12. Limitations
+## 13. Future Improvements
+## 14. Why This Project Matters
+## 15. Author
+## 16. Acknowledgements & Disclaimer
 
 ---
 
@@ -164,7 +165,7 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 ---
 
 
-## Suggested paths through the project
+## Suggested path through the project
 ## In a hurry (2 minutes)
 1. Read the Project Overview and Key Insight.
 2. Open screenshots/ to see the dashboard pages.
@@ -175,7 +176,7 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 ## Going deep (30+ minutes)
 1. Read the data dictionary in [documentation/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/e07b74234ae8e8613c31adfee65a5085357a9f78/documentation).
 2. Browse the datasets in [data/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/26105c2ac8ef41911b58a9e2ccc4c989a2586f1b/data) (start with unep/, then fao/, then synthetic/).
-3. Open the .pbix file in powerbi/ (requires Power BI Desktop) to explore the data model, relationships and DAX measures.
+3. Open the .pbix file in [powerbi/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/43f78b4fb35e04ad0c275dc904e809942ee70a00/powerbi/Africa%20Food%20Waste%20Intelligence.pbix) (requires Power BI Desktop) to explore the data model, relationships and DAX measures.
 
 # Tools & Technologies
 
