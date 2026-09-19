@@ -233,6 +233,8 @@ Local-currency revenue should not be directly aggregated across countries.
 
 ### Page 1 — Africa Food Waste
 
+![Food Loss and Waste](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/a90d20352f05c0b4fd4ae96134ca1fa630251680/screenshots/Africa%20food%20waste.png)
+
 Focus:
 
 **UNEP household food-waste evidence across Africa**
@@ -248,6 +250,8 @@ Key elements:
 ---
 
 ### Page 2 — Africa Food Loss
+
+![Africa Food Loss](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/c1d03518f755c86b2c86058fc2aa75c785561cef/screenshots/Africa%20food%20loss.png)
 
 Focus:
 
