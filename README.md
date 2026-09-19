@@ -1,5 +1,6 @@
 # Food Waste Intelligence: Africa
 
+![Food Loss and Waste](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/a90d20352f05c0b4fd4ae96134ca1fa630251680/screenshots/Africa%20food%20waste.png)
 ## From Food Loss to Food Rescue
 
 An end-to-end data analytics project exploring food loss, household food waste, and potential food-rescue opportunities across Africa.
