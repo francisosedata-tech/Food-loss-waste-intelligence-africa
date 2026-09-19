@@ -171,9 +171,9 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 ## Reviewing the analysis (10 minutes)
 1. Read the project report in [documentation/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/e07b74234ae8e8613c31adfee65a5085357a9f78/documentation)
 2. Skim the scripts in [sql/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/12bfa175218a2e6ae723c8a125be49562640e202/sql) to see the business questions and quality checks.
-3. Open the notebook in python/ to see cleaning and exploration.
+3. Open the notebook in [python/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/29db8c8d96e27f29661c94cee89f629e61dbce79/python) to see cleaning and exploration.
 ## Going deep (30+ minutes)
-1. Read the data dictionary in documentation/.
+1. Read the data dictionary in [documentation/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/e07b74234ae8e8613c31adfee65a5085357a9f78/documentation).
 2. Browse the datasets in data/ (start with unep/, then fao/, then synthetic/).
 3. Open the .pbix file in powerbi/ (requires Power BI Desktop) to explore the data model, relationships and DAX measures.
 
