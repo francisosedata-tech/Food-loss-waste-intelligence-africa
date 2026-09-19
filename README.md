@@ -11,21 +11,20 @@ The project combines publicly available food loss and food waste data with an il
 
 ## Table of Contents
 ## 1. Project Overview
-## 2. How to Navigate This Repository
-## 3. Project Objectives
-## 4. Data Sources
-## 5. Business Questions
-## 6 Suggested path through the project
-## 7. Tools & Technologies
-## 8. Data Model
-## 9. Key Analytical Considerations
-## 10. Dashboard Pages
-## 11. Key Insight
-## 12. Limitations
-## 13. Future Improvements
-## 14. Why This Project Matters
-## 15. Author
-## 16. Acknowledgements & Disclaimer
+## 2. Project Objectives
+## 3. Data Sources
+## 4. Business Questions
+## 7. Suggested path through the project
+## 8. Tools & Technologies
+## 9. Data Model
+## 10. Key Analytical Considerations
+## 11. Dashboard Pages
+## 12. Key Insight
+## 13. Limitations
+## 14. Future Improvements
+## 15. Why This Project Matters
+## 16. Author
+## 17. Acknowledgements & Disclaimer
 
 ---
 
