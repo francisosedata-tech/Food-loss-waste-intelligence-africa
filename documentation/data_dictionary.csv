@@ -1,0 +1,29 @@
+column_name,description,data_type
+record_id,Unique row identifier created for this portfolio dataset,Integer
+m49_code,FAO/UN M49 geographic code,Integer
+country,Country or geographic area,Text
+region,Reported region/geographical grouping in source data,Text
+cpc_code,CPC commodity classification code,Text
+commodity,Food commodity or commodity group,Text
+year,Year of the observation/estimate,Integer
+loss_percentage,Food loss/waste percentage reported by the source,Decimal %
+loss_percentage_original,Original loss percentage representation,Text
+loss_quantity,Original reported quantity-loss field,Text
+loss_quantity_numeric,Numeric version of loss_quantity where conversion is possible,Numeric
+activity,Activity/process where the loss occurs,Text
+food_supply_stage,Stage of the food supply chain,Text
+treatment,Treatment/process associated with the observation,Text
+cause_of_loss,Reported cause of loss,Text
+sample_size,Original reported sample-size field,Text
+sample_size_numeric,Numeric version of sample_size where conversion is possible,Numeric
+method_data_collection,Method used to collect/derive the observation,Text
+reference,Source/reference for the observation,Text
+url,Source URL where available,Text
+notes,Additional source notes,Text
+loss_pct_valid,Quality flag: loss percentage is between 0 and 100,Boolean
+has_loss_quantity,Flag showing whether numeric loss quantity is available,Boolean
+has_sample_size,Flag showing whether numeric sample size is available,Boolean
+has_source_url,Flag showing whether a source URL is available,Boolean
+has_activity,Flag showing whether activity is available,Boolean
+has_supply_stage,Flag showing whether supply-chain stage is available,Boolean
+has_cause_of_loss,Flag showing whether cause of loss is available,Boolean
