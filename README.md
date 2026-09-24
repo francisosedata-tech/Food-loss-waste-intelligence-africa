@@ -164,6 +164,38 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 ---
 
 
+## Nigeria Food Rescue Intelligence Chat
+
+An interactive, data-grounded chat interface built on the synthetic Nigeria food-rescue dataset.
+(https://racing-suspense-spendable.ngrok-free.dev/)
+
+The chat allows users to ask natural-language questions about:
+
+food surplus
+rescued meals
+expired/unrescued meals
+rescue rates
+cities
+business types
+food categories
+recovered revenue
+estimated CO₂e impact
+Example questions
+
+## Where is food being rescued the most?
+
+## Which business type generates the most surplus?
+
+## Which food category has the most surplus?
+
+## What is the overall rescue rate?
+
+## How many meals expired?
+
+The responses are calculated directly from the underlying dataset using Python and pandas.
+
+---
+
 ## Suggested path through the project
 ## In a hurry (2 minutes)
 1. Read the Project Overview and Key Insight.
