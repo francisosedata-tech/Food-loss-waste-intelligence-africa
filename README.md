@@ -169,9 +169,15 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 An interactive, data-grounded chat interface built on the synthetic Nigeria food-rescue dataset.
 
 ## Nigeria Food Rescue Intelligence Dashboard
-_Exploring surplus food, rescue activity, business types, food categories and environmental impact_
+_Exploring surplus food, rescue activity, business types, food categories and environmental impact using synthetic data._
 
 ![Nigeria Food Rescue Intelligence Dashboard](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/c868b2c2fefdb6a0aa46b98b388ab4c62f2f9df0/screenshots/Nigeria%20Screenshot.png)
+
+
+## Nigeria Food Rescue Intelligence Chat
+_Interactive data-grounded chat — allowing users to ask questions directly against the underlying Nigeria food-rescue dataset._
+
+![Nigeria Food Rescue Intelligence Chat](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/316a28e58b416b9868de99122a2ade8c7399a8fb/screenshots/Nigeria%20food%20rescue%20chat.png)
 
 
 Ask Questions (https://racing-suspense-spendable.ngrok-free.dev/)
