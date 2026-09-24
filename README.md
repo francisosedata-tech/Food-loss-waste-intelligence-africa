@@ -14,17 +14,18 @@ The project combines publicly available food loss and food waste data with an il
 ## 2. Project Objectives
 ## 3. Data Sources
 ## 4. Business Questions
-## 7. Suggested path through the project
-## 8. Tools & Technologies
-## 9. Data Model
-## 10. Key Analytical Considerations
-## 11. Dashboard Pages
-## 12. Key Insight
-## 13. Limitations
-## 14. Future Improvements
-## 15. Why This Project Matters
-## 16. Author
-## 17. Acknowledgements & Disclaimer
+## 5. Nigeria Food Rescue Intelligence
+## 6. Suggested path through the project
+## 7. Tools & Technologies
+## 8. Data Model
+## 9. Key Analytical Considerations
+## 10. Dashboard Pages
+## 11. Key Insight
+## 12. Limitations
+## 13. Future Improvements
+## 14. Why This Project Matters
+## 15. Author
+## 16. Acknowledgements & Disclaimer
 
 ---
 
@@ -164,19 +165,18 @@ It is not actual operational data from Too Good To Go or any other food-rescue o
 ---
 
 
-## Nigeria Food Rescue Intelligence Chat
+## Nigeria Food Rescue Intelligence
 
 An interactive, data-grounded chat interface built on the synthetic Nigeria food-rescue dataset.
 
 ## Nigeria Food Rescue Intelligence Dashboard
 _Exploring surplus food, rescue activity, business types, food categories and environmental impact using synthetic data._
-
 ![Nigeria Food Rescue Intelligence Dashboard](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/c868b2c2fefdb6a0aa46b98b388ab4c62f2f9df0/screenshots/Nigeria%20Screenshot.png)
+
 
 
 ## Nigeria Food Rescue Intelligence Chat
 _Interactive data-grounded chat — allowing users to ask questions directly against the underlying Nigeria food-rescue dataset._
-
 ![Nigeria Food Rescue Intelligence Chat](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/316a28e58b416b9868de99122a2ade8c7399a8fb/screenshots/Nigeria%20food%20rescue%20chat.png)
 
 
@@ -219,6 +219,7 @@ The responses are calculated directly from the underlying dataset using Python a
 1. Read the project report in [documentation/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/e07b74234ae8e8613c31adfee65a5085357a9f78/documentation)
 2. Skim the scripts in [sql/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/12bfa175218a2e6ae723c8a125be49562640e202/sql) to see the business questions and quality checks.
 3. Open the notebook in [python/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/29db8c8d96e27f29661c94cee89f629e61dbce79/python) to see cleaning and exploration.
+4. Ask questions about the project in (https://racing-suspense-spendable.ngrok-free.dev/)
 ## Going deep (30+ minutes)
 1. Read the data dictionary in [documentation/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/e07b74234ae8e8613c31adfee65a5085357a9f78/documentation).
 2. Browse the datasets in [data/](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/tree/26105c2ac8ef41911b58a9e2ccc4c989a2586f1b/data) (start with unep/, then fao/, then synthetic/).
