@@ -173,7 +173,7 @@ An interactive, data-grounded chat interface built on the synthetic Nigeria food
 _Exploring surplus food, rescue activity, business types, food categories and environmental impact using synthetic data._
 ![Nigeria Food Rescue Intelligence Dashboard](https://github.com/francisosedata-tech/Food-loss-waste-intelligence-africa/blob/c868b2c2fefdb6a0aa46b98b388ab4c62f2f9df0/screenshots/Nigeria%20Screenshot.png)
 
-
+---
 
 ## Nigeria Food Rescue Intelligence Chat
 _Interactive data-grounded chat — allowing users to ask questions directly against the underlying Nigeria food-rescue dataset._
